@@ -15,7 +15,7 @@ The *HomeSpeak-One* is a versatile, multiroom smart speaker system that supports
 - **DAC (Digital-to-Analog Converter, I used the CJMCU-1334 DAC Module but any other I2S DAC will do )**  
 - **Class D Amplifier ( I used the TPA3110 Class D breakout, but any other will do )**
 - **Snapcast Server ( Personally, I used 200 for the buffer size and 20 for the chunk size )**  
-  *(e.g., a Home Assistant instance with Music Assistant running)*  
+  *(e.g., a [Home Assistant](https://www.home-assistant.io/installation/) instance with Music Assistant running)*  
 
 ### **Steps**:  
 
