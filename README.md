@@ -16,9 +16,9 @@ The *HomeSpeak-One* is a versatile, multiroom smart speaker system that supports
 ## **Installation Guide**  
 
 ### **Requirements**:  
-- **ESP32**  
-- **DAC (Digital-to-Analog Converter)**  
-- **Class D Amplifier**  
+- **ESP32 S3**  
+- **DAC (Digital-to-Analog Converter, I used the CJMCU-1334 DAC Module but any other I2S DAC will do )**  
+- **Class D Amplifier ( I used the TPA3110 Class D breakout, but any other will do )**
 - **Snapcast Server**  
   *(e.g., a Home Assistant instance with Music Assistant running)*  
 
