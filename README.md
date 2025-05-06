@@ -1,15 +1,10 @@
 # **HomeSpeak-One**  
-### *A Smart Speaker with Snapcast Support*  
----
-
-### **Status:**  
-Currently under construction 🚧  
-
+### *A Smart Speaker with Snapcast Support*
 ---
 
 ## **What is HomeSpeak-One?**  
 
-The *HomeSpeak-One* is a versatile, multiroom smart speaker system that supports Snapcast for synchronized audio streaming. 
+The *HomeSpeak-One* is a versatile, multiroom smart speaker system that supports Snapcast for synchronized audio streaming. This project is the result of my final thesis
 
 ---
 
@@ -42,8 +37,8 @@ The *HomeSpeak-One* is a versatile, multiroom smart speaker system that supports
 
 ## **Changelog**  
 
-### **03.12.2024**  
-- Initial Release  
+### **06.05.2025**  
+- Initial release  
 
 ---
 
